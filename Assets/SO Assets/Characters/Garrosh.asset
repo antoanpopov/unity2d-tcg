@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 917561878a8602640ab159ede231f37f, type: 3}
+  m_Name: Garrosh
+  m_EditorClassIdentifier: 
+  Class: 0
+  ClassName: Warrior
+  MaxHealth: 30
+  HeroPowerName: Armor Up!
+  AvatarImage: {fileID: 21300000, guid: a27cc1fa763b1a2468efc0afb277318c, type: 3}
+  HeroPowerIconImage: {fileID: 21300000, guid: a654125e777bf944c987224504c0f3c3, type: 3}
+  AvatarBGImage: {fileID: 0}
+  HeroPowerBGImage: {fileID: 0}
+  AvatarBGTint:
+    serializedVersion: 2
+    rgba: 0
+  HeroPowerBGTint:
+    serializedVersion: 2
+    rgba: 0
+  ClassCardTint:
+    serializedVersion: 2
+    rgba: 4279377637
+  ClassRibbonsTint:
+    serializedVersion: 2
+    rgba: 4284641477
